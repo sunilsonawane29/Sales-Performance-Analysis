@@ -1,0 +1,26 @@
+SALES PERFORMANCE ANALYSIS
+===========================
+
+Dataset records analyzed: 30
+Total revenue: Rs. 1,937,100.00
+Total orders: 30
+Units sold: 506
+Average order value: Rs. 64,570.00
+
+KEY FINDINGS
+------------
+Top product by revenue: Laptop
+Top category by revenue: Electronics
+Top region by revenue: South
+Best month by revenue: 2026-09
+Lowest month by revenue: 2026-06
+
+BUSINESS RECOMMENDATIONS
+------------------------
+1. Investigate what drives sales in the leading product category.
+2. Review marketing and sales activity in the top-performing region.
+3. Compare the strongest and weakest months to identify seasonal patterns.
+4. Review product-level revenue before making inventory decisions.
+
+Note: This project uses sample data for demonstration.
+Revenue is not profit because product costs and expenses are not included.
